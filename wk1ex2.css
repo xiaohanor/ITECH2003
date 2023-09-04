@@ -1,0 +1,17 @@
+body{
+	background-color:#ddddee;
+}
+h1 {
+	font-family: Georgia, serif;
+	font-size: 48px;
+	color: #52527a;
+}
+h2, h3 {
+	font-family: Garamond, serif;
+}
+h2 {
+	font-size: 32px;
+}
+h3 {
+	font-size: 24px;
+}
