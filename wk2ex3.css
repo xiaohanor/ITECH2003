@@ -1,0 +1,32 @@
+body {
+	font-size:1.2em; 
+}
+
+#leftcolumn{
+	position: absolute; 
+	width:300px; 
+	height:400px; 
+	left:10px; 
+	padding: 10px; 
+	color:black;
+	background-color:#eee; 
+}
+
+#rightcolumn{
+	position: absolute; 
+	width:400px; 
+	height:400px; 
+	left: 240px; 
+	padding:10px; 
+	color:white;
+	background-color:#333; 
+}
+
+1i{
+	line-height:1.5em;
+}
+
+.sale{
+	color:#ff8888; 
+}
+
